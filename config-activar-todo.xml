@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Configuración automática para Optimizer - Activar Todo -->
+<!-- Uso: Optimizer.exe /config:config-activar-todo.xml -->
+<OptimizerConfig>
+  <Version>1.0</Version>
+  <Name>Optimizer by Mr Keny Kire - Activar Todo</Name>
+  <Description>Configuración preestablecida que activa todas las optimizaciones</Description>
+  
+  <!-- Sección de Privacidad -->
+  <Optimizations>
+    <Privacy>
+      <EnhancePrivacy enabled="true" />
+      <DisableTelemetry enabled="true" />
+      <DisableCortana enabled="true" />
+      <DisableOfficetelemetry enabled="true" />
+      <DisableWindowsUpdate enabled="true" />
+      <DisableCoPilot enabled="true" />
+      <DisableWindowsInk enabled="true" />
+      <DisableCloudClipboard enabled="true" />
+    </Privacy>
+    
+    <!-- Sección de Servicios -->
+    <Services>
+      <DisableUnnecessaryServices enabled="true" />
+      <DisableXboxLive enabled="true" />
+      <DisableGameBar enabled="true" />
+      <DisableSensorServices enabled="false" />
+      <DisablePrintService enabled="false" />
+      <DisableFaxService enabled="false" />
+    </Services>
+    
+    <!-- Sección de Performance -->
+    <Performance>
+      <EnableUTC enabled="true" />
+      <DisableHPET enabled="true" />
+      <DisableOneDrive enabled="false" />
+      <EnhanceSystemPerformance enabled="true" />
+      <EnhanceNetworkPerformance enabled="true" />
+    </Performance>
+    
+    <!-- Sección de Limpieza -->
+    <Cleanup>
+      <CleanSystemDrive enabled="true" />
+      <CleanBrowserProfiles enabled="true" />
+      <FixRegistryIssues enabled="true" />
+      <RemoveStartupPrograms enabled="true" />
+    </Cleanup>
+    
+    <!-- Sección de Configuración Avanzada -->
+    <Advanced>
+      <ApplyAllOptimizations enabled="true" />
+      <AutoRestart enabled="true" />
+      <RestartDelay>30</RestartDelay>
+      <CreateSystemRestore enabled="true" />
+    </Advanced>
+  </Optimizations>
+  
+  <!-- Información de la Aplicación -->
+  <Application>
+    <Title>Optimizer by Mr Keny Kire</Title>
+    <Version>16.6</Version>
+    <AutoApply>true</AutoApply>
+    <SkipWarnings>false</SkipWarnings>
+  </Application>
+</OptimizerConfig>
