@@ -18,7 +18,7 @@
 <h2>ℹ️ Advanced Privacy and Security Configuration Utility</h2> 
 </center>
 
-Welcome to Optimizer by Mr Keny Kire, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation.
+Welcome to Optimizer by Mr Keny Kire, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation[...]
 
 <center>
 <h2> 🏗️ Key Features:</h2> 
@@ -140,7 +140,7 @@ If you find this tool useful, consider showing your support by [donating through
 <h2> 🌐 Join our Community</h2>
 </center>
 
-Be a part of our [Discord](https://discord.gg/RmHYWMxWfJ) community.
+Be a part of our [Discord](https://discord.gg/2frc8javJ) community.
 
 <center>
 <h2> ❤️ Credits and Acknowledgments</h2>
