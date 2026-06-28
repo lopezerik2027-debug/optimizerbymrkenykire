@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="https://raw.githubusercontent.com/lopezerik2027-debug/optimizerbymrkenykire/main/logo-optimizerbymrkenykire.png" alt="Optimizer by Mr Keny Kire Logo" width="300">
+</p>
+
+<p align="center">
    <img src="https://raw.githubusercontent.com/lopezerik2027-debug/optimizerbymrkenykire/main/banner-optimizerbymrkenykire.png">
 </p>
 
@@ -14,7 +18,7 @@
 <h2>ℹ️ Advanced Privacy and Security Configuration Utility</h2> 
 </center>
 
-Welcome to Optimizer by Mr Keny Kire, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation of Windows to achieve optimal performance and security.
+Welcome to Optimizer by Mr Keny Kire, an advanced configuration utility designed to enhance your privacy and security on Windows. This tool is highly recommended for use after a fresh installation.
 
 <center>
 <h2> 🏗️ Key Features:</h2> 
